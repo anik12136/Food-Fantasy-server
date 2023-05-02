@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://as1.ftcdn.net/v2/jpg/01/13/34/28/1000_F_113342818_8ng3aJ55Ta4UgjTg9a6WdweC74DSDcoC.jpg",
+        "chef_name": "Chef John",
+        "years_of_experience": 10,
+        "description": "Chef John is a culinary expert with a passion for creating innovative dishes.",
+        "likes": 5000,
+        "recipes": [
+            {
+                "recipe_name": "Grilled Salmon",
+                "description": "A mouthwatering grilled salmon dish with a tangy citrus glaze.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/01/00/73/16/1000_F_100731639_JvF0Aa6JBz10b9fHl1pILqmTIV3LV7of.jpg",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Citrus fruits",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ],
+                "cooking_method": "1. Preheat grill. 2. Season salmon fillets with salt and pepper. 3. Grill for 6-8 minutes, turning once. 4. Squeeze citrus juice over grilled salmon. 5. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Chicken Parmesan",
+                "description": "Classic Italian chicken parmesan served with a side of spaghetti.",
+                "recipe_picture": "https://as2.ftcdn.net/v2/jpg/00/96/35/67/1000_F_96356757_tAgxGgUllpsolSg5CCm5HevllOclb80K.jpg",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Breadcrumbs",
+                    "Parmesan cheese",
+                    "Marinara sauce",
+                    "Mozzarella cheese"
+                ],
+                "cooking_method": "1. Coat chicken breasts with breadcrumbs and Parmesan cheese. 2. Fry until golden brown. 3. Top with marinara sauce and mozzarella cheese. 4. Bake until cheese is melted and bubbly. 5. Serve with spaghetti.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Chocolate Lava Cake",
+                "description": "Indulge in this decadent chocolate lava cake with a gooey molten center.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/00/72/30/40/1000_F_72304044_Kbb36Qn8ImrzOqx8qfIHmA28lhpHEEoO.jpg",
+                "ingredients": [
+                    "Dark chocolate",
+                    "Butter",
+                    "Eggs",
+                    "Sugar",
+                    "Flour"
+                ],
+                "cooking_method": "1. Melt dark chocolate and butter together. 2. In a separate bowl, beat eggs and sugar. 3. Combine chocolate mixture with egg mixture. 4. Fold in flour. 5. Pour batter into ramekins and bake. 6. Serve warm with a dusting of powdered sugar.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://as2.ftcdn.net/v2/jpg/02/85/51/17/1000_F_285511786_gjrbt9yqLrzEOdGhbYHeIOJirZjA8k7e.jpg",
+        "chef_name": "Chef Emily",
+        "years_of_experience": 8,
+        "description": "Chef Emily specializes in creating delightful pastries and desserts.",
+        "likes": 3000,
+        "recipes": [
+            {
+                "recipe_name": "Croissants",
+                "description": "Flaky and buttery croissants, perfect for breakfast or a snack.",
+                "recipe_picture": "https://as2.ftcdn.net/v2/jpg/01/53/41/53/1000_F_153415341_JBUAbThjrPfBkVygG5aFnw7NmF9bnt8x.jpg",
+                "ingredients": [
+                    "Flour",
+                    "Butter",
+                    "Sugar",
+                    "Yeast",
+                    "Salt"
+                ],
+                "cooking_method": "1. Mix ingredients to form a dough. 2. Roll out dough and fold with layers of butter. 3. Shape into croissants and let rise. 4. Bake until golden brown. 5. Enjoy warm.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Blueberry Cheesecake",
+                "description": "Creamy cheesecake topped with a generous amount of fresh blueberries.",
+                "recipe_picture": "https://as2.ftcdn.net/v2/jpg/01/70/52/97/1000_F_170529774_GyfN3PXJOUG5tg5BuST53H7Ge7a7gjPm.jpg",
+                "ingredients": [
+                    "Graham cracker crumbs",
+                    "Cream cheese",
+                    "Sugar",
+                    "Eggs",
+                    "Blueberries"
+                ],
+                "cooking_method": "1. Mix graham cracker crumbs with melted butter for the crust. 2. Beat cream cheese, sugar, and eggs until smooth. 3. Pour mixture over the crust and bake. 4. Let cool and top with fresh blueberries. 5. Refrigerate before serving.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Apple Pie",
+                "description": "A classic homemade apple pie with a golden crust and sweet apple filling.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/02/12/85/58/1000_F_212855822_0TpXcUg3jX1gWNlR0XJLw8uplMTscMsT.jpg",
+                "ingredients": [
+                    "Apples",
+                    "Flour",
+                    "Sugar",
+                    "Cinnamon",
+                    "Butter"
+                ],
+                "cooking_method": "1. Peel, core, and slice apples. 2. Mix apples with sugar, flour, and cinnamon. 3. Prepare the pie crust and fill with the apple mixture. 4. Dot with butter and cover with a second crust. 5. Bake until golden brown. 6. Serve warm with a scoop of vanilla ice cream.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://as2.ftcdn.net/v2/jpg/02/23/00/37/1000_F_223003725_Q86VLGaSYXI3mvXxkbfHnbSV0oAuHv7X.jpg",
+        "chef_name": "Chef Sarah",
+        "years_of_experience": 12,
+        "description": "Chef Sarah brings international flavors to her dishes, inspired by her travels around the world.",
+        "likes": 8000,
+        "recipes": [
+            {
+                "recipe_name": "Pad Thai",
+                "description": "A flavorful Thai noodle dish with a perfect balance of sweet, sour, and spicy flavors.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/02/20/94/06/1000_F_220940611_ObxSqjuR5gnXP9L0LoCb6rwhHkeHzQOE.jpg",
+                "ingredients": [
+                    "Rice noodles",
+                    "Shrimp",
+                    "Tofu",
+                    "Eggs",
+                    "Peanuts"
+                ],
+                "cooking_method": "1. Soak rice noodles until softened. 2. Stir-fry shrimp, tofu, and eggs. 3. Add soaked noodles and the Pad Thai sauce. 4. Toss until well coated. 5. Top with peanuts and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Chicken Curry",
+                "description": "A rich and aromatic Indian curry with tender chicken and flavorful spices.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/00/46/29/14/1000_F_46291453_CJqHnfrjtb6fxsndJNB62Z4jxA7TP36R.jpg",
+                "ingredients": [
+                    "Chicken",
+                    "Onion",
+                    "Tomatoes",
+                    "Garlic",
+                    "Ginger",
+                    "Curry powder"
+                ],
+                "cooking_method": "1. Brown chicken in a pan. 2. Saute onions, garlic, and ginger until fragrant. 3. Add tomatoes and curry powder. 4. Simmer until thickened. 5. Add chicken and cook until tender. 6. Serve with rice or naan.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Sushi Rolls",
+                "description": "A classic Japanese dish with fresh ingredients and expertly rolled into perfect bites.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/01/04/98/50/1000_F_104985074_pgJP7dUtTkFhYE7266jEKlq1PQnjpNKU.jpg",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori",
+                    "Avocado",
+                    "Cucumber",
+                    "Salmon"
+                ],
+                "cooking_method": "1. Cook sushi rice according to instructions. 2. Spread rice over nori and add filling. 3. Roll up tightly and cut into bite-size pieces. 4. Serve with soy sauce and wasabi.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://as1.ftcdn.net/v2/jpg/02/00/32/06/1000_F_200320672_XN2ogkgB5hgeBZ2Fi4i9Qe12yOwfIdmg.jpg",
+        "chef_name": "Chef Michael",
+        "years_of_experience": 15,
+        "description": "Chef Michael is a master of BBQ and loves creating bold and smoky flavors.",
+        "likes": 6000,
+        "recipes": [
+            {
+                "recipe_name": "Smoked Brisket",
+                "description": "Tender and juicy smoked brisket with a delicious homemade BBQ sauce.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/05/76/99/66/1000_F_576996651_DGcEgwsNQuBdaYU7pe1YTnx54PJynpye.jpg",
+                "ingredients": [
+                    "Beef brisket",
+                    "Salt",
+                    "Pepper",
+                    "Paprika",
+                    "Brown sugar"
+                ],
+                "cooking_method": "1. Season brisket with salt, pepper, paprika, and brown sugar. 2. Smoke brisket low and slow until tender. 3. Baste with homemade BBQ sauce. 4. Continue smoking until the internal temperature reaches perfection. 5. Rest and slice thinly before serving.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "BBQ Ribs",
+                "description": "Fall-off-the-bone BBQ ribs with a tangy and smoky glaze.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/00/52/38/70/1000_F_52387010_t6pCkulzYi5v5Gj5a248PHuapkhfZz7I.jpg",
+                "ingredients": [
+                    "Pork ribs",
+                    "BBQ rub",
+                    "BBQ sauce",
+                    "Apple cider vinegar",
+                    "Honey"
+                ],
+                "cooking_method": "1. Apply BBQ rub to the ribs and let them marinate. 2. Smoke the ribs until tender. 3. Glaze the ribs with a mixture of BBQ sauce, apple cider vinegar, and honey. 4. Continue smoking until the glaze caramelizes. 5. Serve with extra BBQ sauce on the side.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Grilled Corn",
+                "description": "Juicy and charred grilled corn on the cob with a flavorful herb butter.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/04/50/54/44/1000_F_450544433_C424VWPiTvLup3pChoKPR0y7BoHWi2d1.jpg",
+                "ingredients": [
+                    "Corn on the cob",
+                    "Butter",
+                    "Fresh herbs",
+                    "Garlic",
+                    "Salt"
+                ],
+                "cooking_method": "1. Preheat grill and husk the corn. 2. Grill the corn until lightly charred. 3. Mix softened butter with fresh herbs, garlic, and salt. 4. Brush the herb butter onto the grilled corn. 5. Serve hot.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://as2.ftcdn.net/v2/jpg/02/00/91/03/1000_F_200910333_RG2PxE2RpTEbE87AuUec1HKKy7ku0ceI.jpg",
+        "chef_name": "Chef Maria",
+        "years_of_experience": 9,
+        "description": "Chef Maria specializes in Mediterranean cuisine, bringing vibrant flavors and fresh ingredients to her dishes.",
+        "likes": 4500,
+        "recipes": [
+            {
+                "recipe_name": "Greek Salad",
+                "description": "A refreshing salad with crisp vegetables, tangy feta cheese, and a zesty lemon dressing.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/02/97/13/58/1000_F_297135896_Y9HQ2k7WRIWj55l7LMSB6zQBh3KJ7aBV.jpg",
+                "ingredients": [
+                    "Cucumber",
+                    "Tomatoes",
+                    "Red onion",
+                    "Feta cheese",
+                    "Olives",
+                    "Olive oil",
+                    "Lemon juice"
+                ],
+                "cooking_method": "1. Chop cucumber, tomatoes, and red onion. 2. Crumble feta cheese and add olives. 3. Prepare a dressing with olive oil and lemon juice. 4. Combine all ingredients and toss well. 5. Serve chilled.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Mediterranean Grilled Chicken",
+                "description": "Tender and flavorful grilled chicken marinated in Mediterranean herbs and spices.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/05/87/96/62/1000_F_587966289_mUzpxaUWs3E3FhuhBwgXO3eDZeekHzHt.jpg",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Garlic",
+                    "Lemon",
+                    "Oregano",
+                    "Rosemary",
+                    "Olive oil"
+                ],
+                "cooking_method": "1. Crush garlic and mix with lemon juice, oregano, rosemary, and olive oil. 2. Marinate chicken in the mixture for at least 1 hour. 3. Grill chicken until cooked through. 4. Let rest before slicing. 5. Serve with a squeeze of lemon.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Moussaka",
+                "description": "A classic Greek dish with layers of eggplant, ground meat, and béchamel sauce.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/00/88/19/54/1000_F_88195432_SdUtTIVGXIo60SKjXIJ3qjCaFjpcTUHl.jpg",
+                "ingredients": [
+                    "Eggplant",
+                    "Ground meat",
+                    "Onion",
+                    "Tomatoes",
+                    "Potatoes",
+                    "Milk",
+                    "Flour",
+                    "Butter",
+                    "Nutmeg"
+                ],
+                "cooking_method": "1. Slice and roast eggplant and potatoes. 2. Sauté ground meat and onion until browned. 3. Add tomatoes and simmer. 4. Prepare béchamel sauce with milk, flour, butter, and nutmeg. 5. Layer eggplant, meat sauce, and béchamel in a baking dish. 6. Bake until golden and bubbling. 7. Let cool before serving.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://as2.ftcdn.net/v2/jpg/00/81/12/43/1000_F_81124372_cqdxjwFJVm4lbcOkgJlQA4Tu9HfFcQC4.jpg",
+        "chef_name": "Chef Alex",
+        "years_of_experience": 13,
+        "description": "Chef Alex is known for his innovative fusion cuisine, combining different culinary traditions into unique and delicious dishes.",
+        "likes": 5500,
+        "recipes": [
+            {
+                "recipe_name": "Sushi Burrito",
+                "description": "A fusion of Japanese sushi and Mexican burrito, filled with fresh seafood and vibrant vegetables.",
+                "recipe_picture": "https://as2.ftcdn.net/v2/jpg/01/01/54/57/1000_F_101545729_Xta9iOIHLaPv23ZcxqcfTELy628iVWls.jpg",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori",
+                    "Fresh seafood (e.g., salmon, tuna)",
+                    "Avocado",
+                    "Cucumber",
+                    "Spicy mayo",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Prepare sushi rice according to instructions. 2. Lay nori sheet on a bamboo sushi mat. 3. Spread sushi rice on the nori, leaving a border. 4. Arrange fresh seafood, avocado, and cucumber on the rice. 5. Drizzle with spicy mayo. 6. Roll tightly using the sushi mat. 7. Slice into bite-sized pieces. 8. Serve with soy sauce for dipping.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Taco Pizza",
+                "description": "A combination of Italian pizza and Mexican flavors, topped with seasoned ground beef, cheese, and taco toppings.",
+                "recipe_picture": "https://as1.ftcdn.net/v2/jpg/02/38/20/22/1000_F_238202272_B0sIKCQxiInqWog06A56scisyfdg3u65.jpg",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Ground beef",
+                    "Taco seasoning",
+                    "Cheese",
+                    "Lettuce",
+                    "Tomatoes",
+                    "Sour cream",
+                    "Salsa"
+                ],
+                "cooking_method": "1. Preheat oven and roll out pizza dough. 2. Spread tomato sauce over the dough. 3. Cook ground beef with taco seasoning and drain. 4. Sprinkle cooked ground beef over the sauce. 5. Top with cheese and bake until crust is golden and cheese is melted. 6. Remove from the oven and let it cool slightly. 7. Garnish with lettuce, tomatoes, sour cream, and salsa. 8. Slice and serve.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Thai Peanut Noodles",
+                "description": "A flavorful and creamy Thai-inspired noodle dish with a peanut sauce and fresh vegetables.",
+                "recipe_picture": "https://as2.ftcdn.net/v2/jpg/01/94/54/67/1000_F_194546790_PP2CF7ZGfTX1syZ1VvDRUO4ugDdQ3YbI.jpg",
+                "ingredients": [
+                    "Rice noodles",
+                    "Peanut butter",
+                    "Soy sauce",
+                    "Lime juice",
+                    "Garlic",
+                    "Ginger",
+                    "Vegetables (e.g., bell peppers, carrots, broccoli)",
+                    "Cilantro",
+                    "Peanuts"
+                ],
+                "cooking_method": "1. Cook rice noodles according to package instructions. 2. In a bowl, whisk together peanut butter, soy sauce, lime juice, garlic, and ginger to make the sauce. 3. Heat a pan and stir-fry vegetables until crisp-tender. 4. Add cooked noodles and peanut sauce to the pan. 5. Toss until well coated and heated through. 6. Garnish with cilantro and peanuts. 7. Serve hot.",
+                "rating": 4.8
+            }
+        ]
+    }
+]
